@@ -1,0 +1,28 @@
+name: Stephen Farrell Photography
+favicon: null
+layout_spectrum: 0.11995549476705492
+typography_spectrum: 0.7204597964882851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9084902326576412
+  lightness: 0.05263630975969136
+  saturation: 0.12492307065986097
+  rhythmicContrast: 0.11379834753461182
+purpose: []
